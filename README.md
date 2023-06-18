@@ -1,4 +1,4 @@
-# Farm Equipment Rental Platform.
+
 ## Overview
 This repository contains a project that aims to address the issue of idle farmer equipment during non-seasons. The Farm Equipment Rental Platform is a web-based solution that enables farmers to rent out their farming equipment to others at a reduced cost during the off-season. By providing a simple aggregation platform with call center support, this project aims to help farmers generate additional income while promoting efficient resource utilization in the agricultural community.
 
